@@ -4,10 +4,10 @@
 # ============================================================
 
 # --- Web Framework ---
-django>=6.1
-djangorestframework>=3.18.0
-django-cors-headers>=4.9.0
-python-dotenv>=1.2.3
+django>=5.0,<6.0
+djangorestframework>=3.15.0
+django-cors-headers>=4.3.0
+python-dotenv>=1.0.0
 gunicorn>=23.0.0
 
 # --- File Handling ---
